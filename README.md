@@ -104,5 +104,5 @@ These queries serve as the backbone of a reporting system or dashboard that can:
 
 ## Credits
 
-Submitted to: Center for Analytics and Computing at IIT Gandhinagar (CACIITG)  
+Submitted to IIT Guwahati 
 Tag: @caciitg
