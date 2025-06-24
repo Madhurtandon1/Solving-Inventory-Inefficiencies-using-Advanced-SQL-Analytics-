@@ -64,7 +64,7 @@ Before inserting into structured tables, we run validation queries to:
 
 ### 3. Analytics and Insights
 
-Handled in `analysis.sql` and `reorder_points.sql`:
+Handled in `analysis` and `reorder_points.sql`:
 
 #### Stock Level Calculations
 
