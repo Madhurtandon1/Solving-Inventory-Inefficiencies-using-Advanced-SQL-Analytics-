@@ -3,6 +3,16 @@ Urban Retail Co. — Inventory Analytics Project
 
 ---
 
+## Project Summary
+
+**SQL Analytics for Inventory Optimization** — Designed a normalized relational database (3NF) and implemented stored procedures, views, triggers, CTEs, window functions, and multi-table JOINs for inventory tracking across 20+ retail outlets. Built SQL-based analytical reports and interactive Power BI dashboards with DAX measures for inventory turnover, stockouts, and reorder thresholds, reducing manual tracking effort by 80%.
+
+**Tech Stack:** PostgreSQL, SQL, Power BI, DAX, Views, Stored Procedures
+
+The PostgreSQL implementation — 3NF schema, analytical views, triggers, and stored procedures — lives in [`scripts/postgres/`](scripts/postgres/). See that folder's README for run order and Power BI wiring. The original SQL Server pipeline (bronze/silver layers, `analysis.sql`) remains under `scripts/bronze_layer`, `scripts/silver_layer`, and `scripts/analysis.sql`.
+
+---
+
 ## Introduction
 
 Urban Retail Co. is a fast-growing, mid-sized retail chain operating through both physical outlets and an online platform. With over 5,000 SKUs across cities, our offerings include groceries, personal care items, electronics, and home essentials. These are supported by a multi-regional logistics and warehousing system.
