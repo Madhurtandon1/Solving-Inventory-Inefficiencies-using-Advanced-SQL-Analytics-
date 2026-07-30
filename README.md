@@ -11,6 +11,8 @@ Urban Retail Co. — Inventory Analytics Project
 
 The PostgreSQL implementation — 3NF schema, analytical views, triggers, and stored procedures — lives in [`scripts/postgres/`](scripts/postgres/). See that folder's README for run order and Power BI wiring. The original SQL Server pipeline (bronze/silver layers, `analysis.sql`) remains under `scripts/bronze_layer`, `scripts/silver_layer`, and `scripts/analysis.sql`.
 
+📄 **[Full project write-up (PDF)](solving%20inventory.pdf)** — problem statement, schema/ER diagram, and Power BI dashboard walkthrough.
+
 ---
 
 ## Introduction
